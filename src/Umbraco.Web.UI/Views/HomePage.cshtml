@@ -1,0 +1,18 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.HomePage>
+@using ContentModels = Umbraco.Web.PublishedContentModels;
+@{
+	Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+	
+    <link rel="stylesheet" type="text/css" href="./css/prism.css">
+    <script src="./scripts/Libs/prism.js"></script>
+</head>
+<body>
+    @Umbraco.Field("richTest", altFieldAlias: "richTest", recursive: true)
+</body>
+</html>

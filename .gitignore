@@ -31,17 +31,17 @@ App_Data/TEMP/*
 [Uu]mbraco/[Pp]resentation/[Ff]onts/*
 [Uu]mbraco/[Pp]resentation/[Cc]ss/*
 
-src/Umbraco.Web.UI/[Cc]ss/*
+#src/Umbraco.Web.UI/[Cc]ss/*
 src/Umbraco.Web.UI/App_Code/*
 src/Umbraco.Web.UI/App_Data/*
 src/Umbraco.Tests/App_Data/*
-src/Umbraco.Web.UI/[Mm]edia/*
-src/Umbraco.Web.UI/[Mm]aster[Pp]ages/*
-src/Umbraco.Web.UI/[Mm]acro[Ss]cripts/*
+#src/Umbraco.Web.UI/[Mm]edia/*
+#src/Umbraco.Web.UI/[Mm]aster[Pp]ages/*
+#src/Umbraco.Web.UI/[Mm]acro[Ss]cripts/*
 !src/Umbraco.Web.UI/[Mm]acro[Ss]cripts/[Ww]eb.[Cc]onfig
 src/Umbraco.Web.UI/[Xx]slt/*
 src/Umbraco.Web.UI/[Ii]mages/*
-src/Umbraco.Web.UI/[Ss]cripts/*
+#src/Umbraco.Web.UI/[Ss]cripts/*
 src/Umbraco.Web.UI/Web.*.config.transformed
 
 umbraco/presentation/umbraco/plugins/uComponents/uComponentsInstaller.ascx
@@ -58,39 +58,39 @@ src/Umbraco.Tests/config/trees.config
 src/Umbraco.Web.UI/web.config
 *.orig
 src/Umbraco.Tests/config/404handlers.config
-src/Umbraco.Web.UI/[Vv]iews/*.cshtml
-src/Umbraco.Web.UI/[Vv]iews/*.vbhtml
+#src/Umbraco.Web.UI/[Vv]iews/*.cshtml
+#src/Umbraco.Web.UI/[Vv]iews/*.vbhtml
 src/Umbraco.Tests/[Cc]onfig/umbracoSettings.config
-src/Umbraco.Web.UI/[Vv]iews/*
+#src/Umbraco.Web.UI/[Vv]iews/*
 src/packages/
 src/packages/repositories.config
 
-src/Umbraco.Web.UI/[Ww]eb.config
+#src/Umbraco.Web.UI/[Ww]eb.config
 *.transformed
 webpihash.txt
 
 node_modules
 
-src/Umbraco.Web.UI/[Uu]mbraco/[Ll]ib/*
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/umbraco.*
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/routes.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/app.dev.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/loader.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/loader.dev.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/main.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/app.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Ll]ib/*
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/umbraco.*
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/routes.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/app.dev.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/loader.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/loader.dev.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/main.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/app.js
 
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.panel.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.palettes.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.loader.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.front.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.config.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.panel.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.palettes.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.loader.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.front.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/tuning.config.js
 
-src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/
-src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.js
-src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.css
-src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.html
-src/Umbraco.Web.UI/[Uu]mbraco/[Aa]ssets/*
+#src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/
+#src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.css
+#src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.html
+#src/Umbraco.Web.UI/[Uu]mbraco/[Aa]ssets/*
 src/Umbraco.Web.UI.Client/[Bb]uild/*
 src/Umbraco.Web.UI.Client/[Bb]uild/[Bb]elle/
 src/Umbraco.Web.UI/[Uu]ser[Cc]ontrols/
@@ -101,24 +101,24 @@ tools/NDepend/
 src/Umbraco.Web.UI/App_Plugins/*
 src/*.psess
 src/*.vspx
-src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/routes.js.*
+#src/Umbraco.Web.UI/[Uu]mbraco/[Jj]s/routes.js.*
 NDependOut/*
 *.ndproj
 QueryResult.htm
 *.ndproj
-src/Umbraco.Web.UI/[Uu]mbraco/[Aa]ssets/*
-src/Umbraco.Web.UI/[Uu]mbraco/[Ll]ib/*
-src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.html
-src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.js
+#src/Umbraco.Web.UI/[Uu]mbraco/[Aa]ssets/*
+#src/Umbraco.Web.UI/[Uu]mbraco/[Ll]ib/*
+#src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.html
+#src/Umbraco.Web.UI/[Uu]mbraco/[Vv]iews/**/*.js
 
 src/Umbraco.Web.UI/[Cc]onfig/appSettings.config
 src/Umbraco.Web.UI/[Cc]onfig/connectionStrings.config
-src/Umbraco.Web.UI/umbraco/plugins/*
-src/Umbraco.Web.UI/umbraco/js/init.js
+#src/Umbraco.Web.UI/umbraco/plugins/*
+#src/Umbraco.Web.UI/umbraco/js/init.js
 build/ApiDocs/*
 build/ApiDocs/Output/*
 src/Umbraco.Web.UI.Client/bower_components/*
-/src/Umbraco.Web.UI/Umbraco/preview
+#/src/Umbraco.Web.UI/Umbraco/preview
 
 #Ignore Rule for output of generated documentation files from Grunt docserve
 src/Umbraco.Web.UI.Client/docs/api
